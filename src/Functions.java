@@ -1,3 +1,6 @@
 public class Functions {
-    functions
+    public void fun(){
+        System.out.println("hello");
+    }
+
 }
