@@ -1,6 +1,6 @@
 public class Functions {
     public void fun(){
-        System.out.println("hello");
+        System.out.println("functions");
     }
 
 }
